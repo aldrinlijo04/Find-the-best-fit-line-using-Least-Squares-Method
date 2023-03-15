@@ -45,7 +45,7 @@ plt.show()
 ```
 
 ## Output:
-![best fit line]
+![best fit line](/download.png)
 
 
 
