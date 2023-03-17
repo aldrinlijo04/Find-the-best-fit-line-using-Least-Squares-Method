@@ -34,7 +34,6 @@ for i in range(len(X)):
     denom+=(X[i]-Xmean)**2
 m=num/denom
 c=Ymean-m*Xmean
-3,10,3,6,8,12,1,4,9,14]
 print(m,c)
 Y_pred=m*X+c
 print(Y_pred)
